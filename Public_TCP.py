@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 #Sam George's modified lab 9 TCP Listener (enabled public facing).
+#adapting for use as a chat manager.
 
 import socket
 import threading
